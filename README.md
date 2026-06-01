@@ -32,8 +32,9 @@ HTML Editor is an Android application designed for creating and editing HTML fil
 
 ## License
 
-Add your preferred license here.
+License type: MIT 
 
 ## Developer
 
-Replace this section with your name, website, GitHub profile, or contact information.
+Email: al.amien060512@gmail.com
+Website: imhungry1480-hub.creepers.sbs
